@@ -30,7 +30,7 @@ export default defineConfig({
     // You need to set a unique value that is not equal to other applications
     uniqueName: "mf_remote",
     // publicPath must be configured if using manifest
-    publicPath: "https://mf-remote.vercel.app/",
+    publicPath: "https://mf-remote-ten.vercel.app/",
   },
 
   experiments: {
